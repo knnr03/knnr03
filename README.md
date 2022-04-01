@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @knnr03
-- 👀 I’m interested in programming, crypto, nft, e-commerce, ethical hacking/penetration testing
+
+- 👀 I’m interested in web-programming, web-design, web3.0, e-commerce, crypto, nft, ethical hacking/penetration testing
+
 - 🌱 I’m currently learning programming and e-commerce at univerity in Germany 
+
+
 
 
 <!---
